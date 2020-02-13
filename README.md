@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-in-Python
-A tic tac toe terminal game created in python
+# Simple Python Projects
+Projects, simple programs created while learning Python
